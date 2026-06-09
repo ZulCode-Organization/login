@@ -1,6 +1,5 @@
 "use client";
 
-import { useRedirectIfAuth } from "@/hooks/useAuthGuard";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
@@ -8,10 +7,12 @@ import Link from "next/link";
 import logo from "@/assets/icon-only.png";
 import Button from "@/components/ui/Button";
 import Input from "@/components/ui/Input";
+import { useRedirectIfAuth } from "@/hooks/useAuthGuard";
 
-export default function LoginPage() {
+export default function SignupPage() {
   useRedirectIfAuth(); 
   const router = useRouter();
+  const [nome, setNome] = useState("");
   const [email, setEmail] = useState("");
   const [senha, setSenha] = useState("");
   const [error, setError] = useState("");
@@ -22,21 +23,37 @@ export default function LoginPage() {
     setLoading(true);
 
     try {
-      const res = await fetch(process.env.NEXT_PUBLIC_API_URL + "/auth/signin", {
+      // 1. Cria a conta
+      const signupRes = await fetch(process.env.NEXT_PUBLIC_API_URL + "/auth/signup", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name: nome, email, password: senha }),
+      });
+
+      const signupData = await signupRes.json();
+
+      if (!signupRes.ok) {
+        setError(signupData.message ?? "Erro ao criar conta");
+        return;
+      }
+
+      // 2. Loga automaticamente após o cadastro
+      const signinRes = await fetch(process.env.NEXT_PUBLIC_API_URL + "/auth/signin", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, password: senha }),
       });
 
-      const data = await res.json();
+      const signinData = await signinRes.json();
 
-      if (!res.ok) {
-        setError(data.message ?? "Credenciais inválidas");
+      if (!signinRes.ok) {
+        // Conta criada mas login falhou — manda pro login manual
+        router.push("/login");
         return;
       }
 
-      localStorage.setItem("accessToken", data.accessToken);
-      router.push("/home");
+      localStorage.setItem("accessToken", signinData.accessToken);
+      router.push("/nivelamento");
     } catch {
       setError("Erro ao conectar com o servidor");
     } finally {
@@ -55,9 +72,12 @@ export default function LoginPage() {
       </div>
 
       <div className="w-full max-w-sm bg-zul-surface border border-zul-border rounded-2xl p-6 shadow-2xl">
-        <h2 className="text-xl font-bold mb-6 text-center">Entrar na sua conta</h2>
+        <h2 className="text-xl font-bold mb-6 text-center">Criar nova conta</h2>
 
         <div className="flex flex-col gap-4">
+          <Input label="Nome completo" type="text" placeholder="Seu nome" value={nome} onChange={(e) => setNome(e.target.value)}
+            icon={<svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} /></svg>}
+          />
           <Input label="E-mail" type="email" placeholder="seu@email.com" value={email} onChange={(e) => setEmail(e.target.value)}
             icon={<svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} /></svg>}
           />
@@ -68,13 +88,13 @@ export default function LoginPage() {
           {error && <p className="text-red-500 text-sm text-center">{error}</p>}
 
           <Button variant="primary" size="lg" fullWidth onClick={handleSubmit} disabled={loading} className="mt-2 uppercase tracking-wider">
-            {loading ? "Entrando..." : "Entrar"}
+            {loading ? "Criando conta..." : "Criar conta"}
           </Button>
         </div>
 
         <p className="mt-8 text-center text-sm text-gray-400">
-          Não tem uma conta?{" "}
-          <Link href="/signup" className="text-zul-blue font-bold hover:underline">Cadastre-se</Link>
+          Já tem uma conta?{" "}
+          <Link href="/login" className="text-zul-blue font-bold hover:underline">Entrar</Link>
         </p>
       </div>
 
