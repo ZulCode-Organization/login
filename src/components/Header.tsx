@@ -2,6 +2,8 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import Image from "next/image";
+import logo from "@/assets/icon-only.png";
 import initialUserData from "@/data/user.json";
 
 interface HeaderProps {
@@ -44,9 +46,13 @@ export default function Header({ showBack = false, title }: HeaderProps) {
           </Link>
         ) : (
           <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-zul-blue rounded-lg flex items-center justify-center font-bold text-white text-lg shadow-neon-blue">
-              Z
-            </div>
+            <Image 
+              src={logo} 
+              alt="ZulCode Logo" 
+              width={32} 
+              height={32} 
+              className="rounded-lg object-contain"
+            />
             <span className="text-xl font-bold tracking-tight">ZulCode</span>
           </div>
         )}
