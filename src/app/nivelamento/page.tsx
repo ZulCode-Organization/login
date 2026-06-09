@@ -459,7 +459,12 @@ export default function NivelamentoPage() {
             </div>
           )}
         </div>
-        <Button variant="primary" size="lg" fullWidth onClick={() => router.push("/home")} className="uppercase tracking-wider">
+        <Button variant="primary" size="lg" fullWidth onClick={() => {
+          if (linguagemSelecionada) {
+            localStorage.setItem("zul_current_course_id", linguagemSelecionada);
+          }
+          router.push("/home");
+        }} className="uppercase tracking-wider">
           Começar Jornada →
         </Button>
       </div>

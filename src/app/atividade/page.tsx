@@ -10,35 +10,50 @@ import Button from "@/components/ui/Button";
 import initialUserData from "@/data/user.json";
 import logicaData from "@/data/courses/logica.json";
 import javascriptData from "@/data/courses/javascript.json";
+import pythonData from "@/data/courses/python.json";
+import html_cssData from "@/data/courses/html_css.json";
 import reactData from "@/data/courses/react.json";
+import javaData from "@/data/courses/java.json";
+import typescriptData from "@/data/courses/typescript.json";
+import kotlinData from "@/data/courses/kotlin.json";
 
 const coursesMap: Record<string, any> = {
-  "c1": logicaData,
-  "c2": javascriptData,
-  "c3": reactData
+  "logica": logicaData,
+  "javascript": javascriptData,
+  "python": pythonData,
+  "html_css": html_cssData,
+  "react": reactData,
+  "java": javaData,
+  "typescript": typescriptData,
+  "kotlin": kotlinData
 };
 
 export default function AtividadePage() {
   const router = useRouter();
   const [user, setUser] = useState<any>(null);
+  const [currentCourseId, setCurrentCourseId] = useState("logica");
   
-  // Carregar usuário do localStorage ou do JSON inicial
+  // Carregar usuário e curso do localStorage
   useEffect(() => {
-    const saved = localStorage.getItem("zul_user_data");
-    if (saved) {
-      setUser(JSON.parse(saved));
+    const savedUser = localStorage.getItem("zul_user_data");
+    if (savedUser) {
+      setUser(JSON.parse(savedUser));
     } else {
       setUser(initialUserData.u1);
     }
+
+    const savedCourseId = localStorage.getItem("zul_current_course_id");
+    if (savedCourseId) {
+      setCurrentCourseId(savedCourseId);
+    }
   }, []);
 
-  const currentCourseId = "c1"; // Exemplo fixo por enquanto
-  const courseData = coursesMap[currentCourseId];
+  const courseData = coursesMap[currentCourseId] || logicaData;
 
   // Encontrar a fase atual baseada no progresso salvo
   const currentPhase = useMemo(() => {
     if (!user) return null;
-    const progress = user.progress[currentCourseId];
+    const progress = user.progress[currentCourseId] || { currentModule: 1, currentPhase: 1, completedPhases: [] };
     const currentPhaseId = `m${progress.currentModule}-p${progress.currentPhase}`;
     
     for (const module of courseData.modules) {
@@ -46,8 +61,9 @@ export default function AtividadePage() {
       if (phase) return phase;
     }
     // Fallback para a primeira fase do módulo se não encontrar
-    return courseData.modules[progress.currentModule - 1].phases[0];
-  }, [user, currentCourseId]);
+    const moduleIdx = (progress.currentModule || 1) - 1;
+    return courseData.modules[moduleIdx]?.phases[0] || courseData.modules[0].phases[0];
+  }, [user, currentCourseId, courseData]);
 
   const questoes = useMemo(() => {
     if (!currentPhase) return [];
@@ -87,6 +103,16 @@ export default function AtividadePage() {
 
   const finalizarFase = () => {
     const newUser = { ...user };
+    
+    // Garantir que o objeto de progresso para o curso atual existe
+    if (!newUser.progress[currentCourseId]) {
+      newUser.progress[currentCourseId] = { 
+        currentModule: 1, 
+        currentPhase: 1, 
+        completedPhases: [] 
+      };
+    }
+    
     const progress = newUser.progress[currentCourseId];
     
     // 1. Adicionar ao array de completas se não estiver lá
@@ -104,7 +130,7 @@ export default function AtividadePage() {
 
     if (currentPhaseIdx < currentModuleData.phases.length - 1) {
       // Avança para próxima fase no mesmo módulo
-      progress.currentPhase += 1;
+      progress.currentPhase = currentPhaseIdx + 2; // +1 para ser 1-based, +1 para a próxima
     } else if (progress.currentModule < courseData.modules.length) {
       // Avança para o próximo módulo
       progress.currentModule += 1;

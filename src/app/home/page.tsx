@@ -101,31 +101,49 @@ export default function HomePage() {
     } else {
       setUser(initialUserData.u1);
     }
+
+    const savedCourseId = localStorage.getItem("zul_current_course_id");
+    if (savedCourseId) {
+      setCurrentCourseId(savedCourseId);
+    }
   }, []);
 
-  if (!user) return <div className="min-h-screen bg-zul-dark" />;
+  const courseProgress = useMemo(() => {
+    if (!user || !user.progress[currentCourseId]) {
+      return { currentModule: 1, currentPhase: 1, completedPhases: [] };
+    }
+    return user.progress[currentCourseId];
+  }, [user, currentCourseId]);
 
-  const courseProgress = user.progress[currentCourseId] || { currentModule: 1, completedPhases: [] };
   const courseData = coursesMap[currentCourseId] || logicaData;
   const currentModuleData = courseData.modules[courseProgress.currentModule - 1] || courseData.modules[0];
 
-  const nodes: Node[] = currentModuleData.phases.map((phase: any, pIdx: number) => {
-    const isCompleted = courseProgress.completedPhases.includes(phase.id);
-    const prevPhaseId = pIdx > 0 ? currentModuleData.phases[pIdx - 1].id : null;
-    const isFirstNonCompleted = !isCompleted && (pIdx === 0 || courseProgress.completedPhases.includes(prevPhaseId));
-    const status: Status = isCompleted ? "completed" : isFirstNonCompleted ? "active" : "locked";
+  const nodes: Node[] = useMemo(() => {
+    return currentModuleData.phases.map((phase: any, pIdx: number) => {
+      const isCompleted = courseProgress.completedPhases.includes(phase.id);
+      
+      // A fase está ativa se:
+      // 1. Não está completada E (é a primeira fase OU a anterior está completada)
+      // OU se for explicitamente a currentPhase (para garantir consistência)
+      const prevPhaseId = pIdx > 0 ? currentModuleData.phases[pIdx - 1].id : null;
+      const isFirstNonCompleted = !isCompleted && (pIdx === 0 || courseProgress.completedPhases.includes(prevPhaseId));
+      
+      const status: Status = isCompleted ? "completed" : isFirstNonCompleted ? "active" : "locked";
 
-    return {
-      id: phase.id,
-      label: `Fase ${pIdx + 1}`,
-      sublabel: phase.title,
-      status: status,
-      offset: (pIdx % 2 === 0) ? 64 : -64,
-      xp: 25
-    };
-  });
+      return {
+        id: phase.id,
+        label: `Fase ${pIdx + 1}`,
+        sublabel: phase.title,
+        status: status,
+        offset: (pIdx % 2 === 0) ? 64 : -64,
+        xp: 25
+      };
+    });
+  }, [currentModuleData, courseProgress]);
 
   const concluidas = nodes.filter((n) => n.status === "completed").length;
+
+  if (!user) return <div className="min-h-screen bg-zul-dark" />;
 
   const changeModule = (mIdx: number) => {
     const newUser = { ...user };
@@ -138,7 +156,9 @@ export default function HomePage() {
   };
 
   const handleCourseChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    setCurrentCourseId(e.target.value);
+    const newCourseId = e.target.value;
+    setCurrentCourseId(newCourseId);
+    localStorage.setItem("zul_current_course_id", newCourseId);
   };
 
   // ── Conteúdo compartilhado ─────────────────────────────────────────────────
@@ -178,69 +198,70 @@ export default function HomePage() {
   );
 
   const banner = (
-    <div className="space-y-4">
-      <div className="lg:hidden">{statusBar}</div>
-      <div className="flex flex-col gap-2">
-          <p className="text-[10px] font-black uppercase tracking-widest text-gray-500">Trilha de Estudo</p>
-          {courseSelector}
-      </div>
-      
-      <button
-        onClick={() => setAberto((v) => !v)}
-        className={`w-full bg-zul-blue px-4 py-4 flex justify-between items-center shadow-neon-blue-lg
-          active:scale-[0.99] transition-all duration-200
-          ${aberto ? "rounded-t-2xl" : "rounded-2xl"}`}
-      >
-        <div className="text-left">
-          <p className="text-[10px] font-black uppercase tracking-widest opacity-70">Unidade {courseProgress.currentModule}</p>
-          <h2 className="text-base font-bold mt-0.5">{currentModuleData.title}</h2>
-          <div className="flex items-center gap-2 mt-1.5">
-            <div className="flex-1 h-1.5 bg-blue-400/30 rounded-full overflow-hidden max-w-[120px]">
-              <div className="h-full bg-white/70 rounded-full" style={{ width: `${(concluidas / nodes.length) * 100}%` }} />
+    <div className="fixed top-[64px] left-0 right-0 z-40 bg-zul-dark border-b border-zul-border lg:relative lg:top-0 lg:bg-transparent lg:border-none lg:z-auto">
+      <div className="max-w-lg mx-auto px-4 pt-2 pb-4 space-y-4">
+        <div className="flex flex-col gap-2">
+            <p className="text-[10px] font-black uppercase tracking-widest text-gray-500">Trilha de Estudo</p>
+            {courseSelector}
+        </div>
+        
+        <button
+          onClick={() => setAberto((v) => !v)}
+          className={`w-full bg-zul-blue px-4 py-4 flex justify-between items-center shadow-neon-blue-lg mt-4
+            active:scale-[0.99] transition-all duration-200
+            ${aberto ? "rounded-t-2xl" : "rounded-2xl"}`}
+        >
+          <div className="text-left">
+            <p className="text-[10px] font-black uppercase tracking-widest opacity-70">Unidade {courseProgress.currentModule}</p>
+            <h2 className="text-base font-bold mt-0.5">{currentModuleData.title}</h2>
+            <div className="flex items-center gap-2 mt-1.5">
+              <div className="flex-1 h-1.5 bg-blue-400/30 rounded-full overflow-hidden max-w-[120px]">
+                <div className="h-full bg-white/70 rounded-full" style={{ width: `${(concluidas / nodes.length) * 100}%` }} />
+              </div>
+              <span className="text-[10px] opacity-70">{concluidas}/{nodes.length}</span>
             </div>
-            <span className="text-[10px] opacity-70">{concluidas}/{nodes.length}</span>
           </div>
-        </div>
-        <div className="ml-3 w-8 h-8 bg-blue-500/40 rounded-xl flex items-center justify-center flex-shrink-0">
-          <ChevronIcon className={`h-4 w-4 transition-transform duration-300 ${aberto ? "rotate-180" : ""}`} />
-        </div>
-      </button>
+          <div className="ml-3 w-8 h-8 bg-blue-500/40 rounded-xl flex items-center justify-center flex-shrink-0">
+            <ChevronIcon className={`h-4 w-4 transition-transform duration-300 ${aberto ? "rotate-180" : ""}`} />
+          </div>
+        </button>
 
-      <div className={`overflow-hidden transition-all duration-300 ${aberto ? "max-h-[500px]" : "max-h-0"}`}>
-        <div className="bg-zul-surface border border-t-0 border-zul-blue/40 rounded-b-2xl px-2 py-2 space-y-1">
-          {courseData.modules.map((m: any, idx: number) => {
-             const isCurrent = idx + 1 === courseProgress.currentModule;
-             const isLocked = idx + 1 > (courseProgress.currentModule || 1);
-             return (
-                <button 
-                  key={m.id} 
-                  disabled={isLocked}
-                  onClick={() => changeModule(idx)}
-                  className={`w-full flex items-center justify-between p-3 rounded-xl transition-all
-                    ${isCurrent ? "bg-zul-blue/20 border border-zul-blue text-white" : "hover:bg-zul-dark text-gray-400"}
-                    ${isLocked ? "opacity-40 cursor-not-allowed" : ""}`}
-                >
-                   <div className="flex items-center gap-3">
-                      <span className="text-xs font-bold w-5">0{idx + 1}</span>
-                      <span className="text-xs font-semibold text-left">{m.title}</span>
-                   </div>
-                   {isLocked ? (
-                     <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} /></svg>
-                   ) : isCurrent ? (
-                     <div className="w-2 h-2 rounded-full bg-zul-blue animate-pulse" />
-                   ) : (
-                     <svg className="w-3.5 h-3.5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} /></svg>
-                   )}
-                </button>
-             );
-          })}
+        <div className={`overflow-hidden transition-all duration-300 ${aberto ? "max-h-[500px]" : "max-h-0"}`}>
+          <div className="bg-zul-surface border border-t-0 border-zul-blue/40 rounded-b-2xl px-2 py-2 space-y-1">
+            {courseData.modules.map((m: any, idx: number) => {
+               const isCurrent = idx + 1 === courseProgress.currentModule;
+               const isLocked = idx + 1 > (courseProgress.currentModule || 1);
+               return (
+                  <button 
+                    key={m.id} 
+                    disabled={isLocked}
+                    onClick={() => changeModule(idx)}
+                    className={`w-full flex items-center justify-between p-3 rounded-xl transition-all
+                      ${isCurrent ? "bg-zul-blue/20 border border-zul-blue text-white" : "hover:bg-zul-dark text-gray-400"}
+                      ${isLocked ? "opacity-40 cursor-not-allowed" : ""}`}
+                  >
+                     <div className="flex items-center gap-3">
+                        <span className="text-xs font-bold w-5">0{idx + 1}</span>
+                        <span className="text-xs font-semibold text-left">{m.title}</span>
+                     </div>
+                     {isLocked ? (
+                       <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} /></svg>
+                     ) : isCurrent ? (
+                       <div className="w-2 h-2 rounded-full bg-zul-blue animate-pulse" />
+                     ) : (
+                       <svg className="w-3.5 h-3.5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M5 13l4 4L19 7" strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} /></svg>
+                     )}
+                  </button>
+               );
+            })}
+          </div>
         </div>
       </div>
     </div>
   );
 
   const roadmap = (
-    <section className="relative py-8">
+    <section className={`relative py-8 ${aberto ? "pt-[480px]" : "pt-[180px]"} transition-all duration-300 lg:pt-8`}>
       <div className="absolute left-1/2 top-0 bottom-0 w-1 -translate-x-1/2 bg-zul-border" />
       <div
         className="absolute left-1/2 top-0 w-1 -translate-x-1/2 bg-zul-blue transition-all duration-500"
@@ -294,8 +315,8 @@ export default function HomePage() {
     <div className="min-h-screen bg-zul-dark">
       <div className="flex flex-col min-h-screen lg:hidden">
         <Header />
-        <main className="flex-1 pb-28 w-full max-w-lg mx-auto px-4">
-          <div className="mt-5">{banner}</div>
+        <main className="flex-1 pb-28 w-full max-w-lg mx-auto px-4 relative">
+          {banner}
           {roadmap}
         </main>
         <BottomNav />

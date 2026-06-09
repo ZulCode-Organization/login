@@ -14,15 +14,6 @@ const navItems = [
     ),
   },
   {
-    label: "Desafio",
-    href: "/atividade",
-    icon: (active: boolean) => (
-      <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path d="M13 10V3L4 14h7v7l9-11h-7z" strokeLinecap="round" strokeLinejoin="round" strokeWidth={active ? 2.5 : 2} />
-      </svg>
-    ),
-  },
-  {
     label: "Loja",
     href: "/loja",
     icon: (active: boolean) => (
