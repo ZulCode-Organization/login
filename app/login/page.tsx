@@ -2,6 +2,8 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
+import logo from "@/assets/icon-only.png";
 import Button from "@/components/ui/Button";
 import Input from "@/components/ui/Input";
 
@@ -19,8 +21,14 @@ export default function LoginPage() {
   return (
     <div className="min-h-screen bg-zul-dark flex flex-col items-center justify-center px-5 py-10">
       <div className="flex flex-col items-center mb-10 gap-3">
-        <div className="w-16 h-16 bg-zul-blue rounded-2xl flex items-center justify-center font-black text-3xl shadow-neon-blue-lg">
-          Z
+        <div className="w-16 h-16 relative flex items-center justify-center">
+          <Image 
+            src={logo} 
+            alt="Logo" 
+            width={64} 
+            height={64} 
+            className="object-contain rounded-2xl"
+          />
         </div>
         <h1 className="text-2xl font-black tracking-tight">ZulCode</h1>
         <p className="text-gray-500 text-sm text-center">Aprenda programação de forma gamificada</p>

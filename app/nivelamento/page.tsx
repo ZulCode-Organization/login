@@ -2,6 +2,8 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
+import logo from "@/assets/icon-only.png";
 import Button from "@/components/ui/Button";
 import {
   origens,
@@ -227,9 +229,13 @@ export default function NivelamentoPage() {
     return (
       <div className="mb-6">
         <div className="flex items-center gap-3 mb-5">
-          <div className="w-8 h-8 bg-zul-blue rounded-lg flex items-center justify-center font-bold shadow-neon-blue text-sm">
-            Z
-          </div>
+          <Image 
+            src={logo} 
+            alt="Logo" 
+            width={32} 
+            height={32} 
+            className="object-contain rounded-lg"
+          />
           <span className="font-bold text-lg">ZulCode</span>
         </div>
         <div className="flex justify-between items-end mb-2">
