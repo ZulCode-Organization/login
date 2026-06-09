@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Tema Dark Blue",
+    "desc": "Visual exclusivo azul profundo",
+    "preco": 500,
+    "iconName": "SparkleIcon",
+    "iconBg": "bg-purple-500/15 text-purple-400",
+    "tipo": "Temas",
+    "destaque": true
+  },
+  {
+    "id": 2,
+    "nome": "Avatar Hacker",
+    "desc": "Personagem com capuz e óculos",
+    "preco": 300,
+    "iconName": "UserIcon",
+    "iconBg": "bg-cyan-500/15 text-cyan-400",
+    "tipo": "Avatares",
+    "destaque": false
+  },
+  {
+    "id": 3,
+    "nome": "XP Dobrado",
+    "desc": "2x XP por 24 horas",
+    "preco": 200,
+    "iconName": "BoltIcon",
+    "iconBg": "bg-yellow-500/15 text-yellow-400",
+    "tipo": "Power-ups",
+    "destaque": true
+  },
+  {
+    "id": 4,
+    "nome": "Streak Shield",
+    "desc": "Protege sua sequência por 1 dia",
+    "preco": 150,
+    "iconName": "ShieldIcon",
+    "iconBg": "bg-green-500/15 text-green-400",
+    "tipo": "Power-ups",
+    "destaque": false
+  },
+  {
+    "id": 5,
+    "nome": "Avatar Robô",
+    "desc": "Personagem robótico futurista",
+    "preco": 400,
+    "iconName": "CpuIcon",
+    "iconBg": "bg-cyan-500/15 text-cyan-400",
+    "tipo": "Avatares",
+    "destaque": false
+  },
+  {
+    "id": 6,
+    "nome": "Tema Neon Green",
+    "desc": "Visual matrix verde neon",
+    "preco": 600,
+    "iconName": "SparkleIcon",
+    "iconBg": "bg-green-500/15 text-green-400",
+    "tipo": "Temas",
+    "destaque": false
+  },
+  {
+    "id": 7,
+    "nome": "Bônus XP 500",
+    "desc": "500 XP adicionados direto",
+    "preco": 800,
+    "iconName": "GiftIcon",
+    "iconBg": "bg-orange-500/15 text-orange-400",
+    "tipo": "Bônus",
+    "destaque": true
+  },
+  {
+    "id": 8,
+    "nome": "Dica Extra",
+    "desc": "3 dicas extras para desafios",
+    "preco": 100,
+    "iconName": "LightbulbIcon",
+    "iconBg": "bg-zul-blue/15 text-zul-blue",
+    "tipo": "Power-ups",
+    "destaque": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "m1",
+    "title": "Primeiros Passos",
+    "description": "Complete sua primeira aula de hoje.",
+    "reward": 50,
+    "rewardType": "coins",
+    "completed": false,
+    "progress": 0,
+    "total": 1
+  },
+  {
+    "id": "m2",
+    "title": "Maratona",
+    "description": "Estude por 30 minutos.",
+    "reward": 10,
+    "rewardType": "gems",
+    "completed": false,
+    "progress": 10,
+    "total": 30
+  },
+  {
+    "id": "m3",
+    "title": "Mestre da Sintaxe",
+    "description": "Acerte 10 exercícios seguidos.",
+    "reward": 100,
+    "rewardType": "coins",
+    "completed": true,
+    "progress": 10,
+    "total": 10
+  }
+]

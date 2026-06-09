@@ -1,0 +1,3561 @@
+{
+  "id": "c8",
+  "title": "Kotlin para Android",
+  "modules": [
+    {
+      "id": "m1",
+      "title": "Básico e Null Safety",
+      "phases": [
+        {
+          "id": "m1-p1",
+          "title": "Básico e Null Safety - Fase 1",
+          "parts": [
+            {
+              "id": "m1-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p2",
+          "title": "Básico e Null Safety - Fase 2",
+          "parts": [
+            {
+              "id": "m1-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p3",
+          "title": "Básico e Null Safety - Fase 3",
+          "parts": [
+            {
+              "id": "m1-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p4",
+          "title": "Básico e Null Safety - Fase 4",
+          "parts": [
+            {
+              "id": "m1-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p5",
+          "title": "Básico e Null Safety - Fase 5",
+          "parts": [
+            {
+              "id": "m1-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Básico e Null Safety, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Básico e Null Safety. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Funções e Lambdas",
+      "phases": [
+        {
+          "id": "m2-p1",
+          "title": "Funções e Lambdas - Fase 1",
+          "parts": [
+            {
+              "id": "m2-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p2",
+          "title": "Funções e Lambdas - Fase 2",
+          "parts": [
+            {
+              "id": "m2-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p3",
+          "title": "Funções e Lambdas - Fase 3",
+          "parts": [
+            {
+              "id": "m2-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p4",
+          "title": "Funções e Lambdas - Fase 4",
+          "parts": [
+            {
+              "id": "m2-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p5",
+          "title": "Funções e Lambdas - Fase 5",
+          "parts": [
+            {
+              "id": "m2-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Funções e Lambdas, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Funções e Lambdas. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Classes e Herança",
+      "phases": [
+        {
+          "id": "m3-p1",
+          "title": "Classes e Herança - Fase 1",
+          "parts": [
+            {
+              "id": "m3-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p2",
+          "title": "Classes e Herança - Fase 2",
+          "parts": [
+            {
+              "id": "m3-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p3",
+          "title": "Classes e Herança - Fase 3",
+          "parts": [
+            {
+              "id": "m3-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p4",
+          "title": "Classes e Herança - Fase 4",
+          "parts": [
+            {
+              "id": "m3-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p5",
+          "title": "Classes e Herança - Fase 5",
+          "parts": [
+            {
+              "id": "m3-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Classes e Herança, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Classes e Herança. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "title": "Coroutines",
+      "phases": [
+        {
+          "id": "m4-p1",
+          "title": "Coroutines - Fase 1",
+          "parts": [
+            {
+              "id": "m4-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p2",
+          "title": "Coroutines - Fase 2",
+          "parts": [
+            {
+              "id": "m4-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p3",
+          "title": "Coroutines - Fase 3",
+          "parts": [
+            {
+              "id": "m4-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p4",
+          "title": "Coroutines - Fase 4",
+          "parts": [
+            {
+              "id": "m4-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p5",
+          "title": "Coroutines - Fase 5",
+          "parts": [
+            {
+              "id": "m4-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coroutines, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Coroutines. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "title": "Android Dev",
+      "phases": [
+        {
+          "id": "m5-p1",
+          "title": "Android Dev - Fase 1",
+          "parts": [
+            {
+              "id": "m5-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p2",
+          "title": "Android Dev - Fase 2",
+          "parts": [
+            {
+              "id": "m5-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p3",
+          "title": "Android Dev - Fase 3",
+          "parts": [
+            {
+              "id": "m5-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p4",
+          "title": "Android Dev - Fase 4",
+          "parts": [
+            {
+              "id": "m5-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p5",
+          "title": "Android Dev - Fase 5",
+          "parts": [
+            {
+              "id": "m5-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Android Dev, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Kotlin para Android, estamos explorando Android Dev. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

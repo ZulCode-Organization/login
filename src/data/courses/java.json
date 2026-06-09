@@ -1,0 +1,2811 @@
+{
+  "id": "c6",
+  "title": "Java Enterprise",
+  "modules": [
+    {
+      "id": "m1",
+      "title": "Sintaxe e Tipos",
+      "phases": [
+        {
+          "id": "m1-p1",
+          "title": "Sintaxe e Tipos - Fase 1",
+          "parts": [
+            {
+              "id": "m1-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p2",
+          "title": "Sintaxe e Tipos - Fase 2",
+          "parts": [
+            {
+              "id": "m1-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p3",
+          "title": "Sintaxe e Tipos - Fase 3",
+          "parts": [
+            {
+              "id": "m1-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p4",
+          "title": "Sintaxe e Tipos - Fase 4",
+          "parts": [
+            {
+              "id": "m1-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p5",
+          "title": "Sintaxe e Tipos - Fase 5",
+          "parts": [
+            {
+              "id": "m1-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Sintaxe e Tipos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Sintaxe e Tipos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Orientação a Objetos",
+      "phases": [
+        {
+          "id": "m2-p1",
+          "title": "Orientação a Objetos - Fase 1",
+          "parts": [
+            {
+              "id": "m2-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p2",
+          "title": "Orientação a Objetos - Fase 2",
+          "parts": [
+            {
+              "id": "m2-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p3",
+          "title": "Orientação a Objetos - Fase 3",
+          "parts": [
+            {
+              "id": "m2-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p4",
+          "title": "Orientação a Objetos - Fase 4",
+          "parts": [
+            {
+              "id": "m2-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p5",
+          "title": "Orientação a Objetos - Fase 5",
+          "parts": [
+            {
+              "id": "m2-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Orientação a Objetos, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Orientação a Objetos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Coleções e Exceções",
+      "phases": [
+        {
+          "id": "m3-p1",
+          "title": "Coleções e Exceções - Fase 1",
+          "parts": [
+            {
+              "id": "m3-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p2",
+          "title": "Coleções e Exceções - Fase 2",
+          "parts": [
+            {
+              "id": "m3-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p3",
+          "title": "Coleções e Exceções - Fase 3",
+          "parts": [
+            {
+              "id": "m3-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p4",
+          "title": "Coleções e Exceções - Fase 4",
+          "parts": [
+            {
+              "id": "m3-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p5",
+          "title": "Coleções e Exceções - Fase 5",
+          "parts": [
+            {
+              "id": "m3-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Coleções e Exceções, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Coleções e Exceções. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "title": "Java Streams",
+      "phases": [
+        {
+          "id": "m4-p1",
+          "title": "Java Streams - Fase 1",
+          "parts": [
+            {
+              "id": "m4-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p2",
+          "title": "Java Streams - Fase 2",
+          "parts": [
+            {
+              "id": "m4-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p3",
+          "title": "Java Streams - Fase 3",
+          "parts": [
+            {
+              "id": "m4-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p4",
+          "title": "Java Streams - Fase 4",
+          "parts": [
+            {
+              "id": "m4-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p5",
+          "title": "Java Streams - Fase 5",
+          "parts": [
+            {
+              "id": "m4-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Java Streams, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Java Streams. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "title": "Concorrência e Spring",
+      "phases": [
+        {
+          "id": "m5-p1",
+          "title": "Concorrência e Spring - Fase 1",
+          "parts": [
+            {
+              "id": "m5-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p2",
+          "title": "Concorrência e Spring - Fase 2",
+          "parts": [
+            {
+              "id": "m5-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p3",
+          "title": "Concorrência e Spring - Fase 3",
+          "parts": [
+            {
+              "id": "m5-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p4",
+          "title": "Concorrência e Spring - Fase 4",
+          "parts": [
+            {
+              "id": "m5-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p5",
+          "title": "Concorrência e Spring - Fase 5",
+          "parts": [
+            {
+              "id": "m5-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 2?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Concorrência e Spring, qual a alternativa correta para o conceito 4?",
+                  "options": ["Opção A", "Opção B", "Opção C", "Opção D"],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de Java Enterprise, estamos explorando Concorrência e Spring. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

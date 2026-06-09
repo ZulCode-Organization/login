@@ -1,0 +1,43 @@
+{
+  "u1": {
+    "id": "u1",
+    "name": "Vitor Moreira",
+    "username": "vitor_m",
+    "email": "moreira.r.vitor44@gmail.com",
+    "avatar": "",
+    "initials": "VM",
+    "level": 3,
+    "xp": 1250,
+    "nextLevelXp": 2000,
+    "coins": 450,
+    "hearts": 5,
+    "gems": 25,
+    "difficulty": "Intermediário",
+    "stats": {
+      "streak": 7,
+      "completedCourses": 0,
+      "completedMissions": 15,
+      "challengesDone": 23
+    },
+    "progress": {
+      "logica": {
+        "currentModule": 1,
+        "currentPhase": 1,
+        "completedPhases": []
+      },
+      "javascript": {
+        "currentModule": 1,
+        "currentPhase": 1,
+        "completedPhases": []
+      }
+    },
+    "conquistas": [
+      { "id": "streak-7", "unlocked": true },
+      { "id": "xp-100", "unlocked": true },
+      { "id": "first-challenge", "unlocked": true },
+      { "id": "level-5", "unlocked": false },
+      { "id": "challenges-10", "unlocked": false },
+      { "id": "advanced", "unlocked": false }
+    ]
+  }
+}

@@ -1,0 +1,3561 @@
+{
+  "id": "c3",
+  "title": "React.js Completo",
+  "modules": [
+    {
+      "id": "m1",
+      "title": "Componentes e Props",
+      "phases": [
+        {
+          "id": "m1-p1",
+          "title": "Componentes e Props - Fase 1",
+          "parts": [
+            {
+              "id": "m1-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p2",
+          "title": "Componentes e Props - Fase 2",
+          "parts": [
+            {
+              "id": "m1-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p3",
+          "title": "Componentes e Props - Fase 3",
+          "parts": [
+            {
+              "id": "m1-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p4",
+          "title": "Componentes e Props - Fase 4",
+          "parts": [
+            {
+              "id": "m1-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p5",
+          "title": "Componentes e Props - Fase 5",
+          "parts": [
+            {
+              "id": "m1-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Componentes e Props, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Componentes e Props. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Estado e Hooks",
+      "phases": [
+        {
+          "id": "m2-p1",
+          "title": "Estado e Hooks - Fase 1",
+          "parts": [
+            {
+              "id": "m2-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p2",
+          "title": "Estado e Hooks - Fase 2",
+          "parts": [
+            {
+              "id": "m2-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p3",
+          "title": "Estado e Hooks - Fase 3",
+          "parts": [
+            {
+              "id": "m2-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p4",
+          "title": "Estado e Hooks - Fase 4",
+          "parts": [
+            {
+              "id": "m2-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p5",
+          "title": "Estado e Hooks - Fase 5",
+          "parts": [
+            {
+              "id": "m2-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Estado e Hooks, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Estado e Hooks. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Ciclo de Vida",
+      "phases": [
+        {
+          "id": "m3-p1",
+          "title": "Ciclo de Vida - Fase 1",
+          "parts": [
+            {
+              "id": "m3-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p2",
+          "title": "Ciclo de Vida - Fase 2",
+          "parts": [
+            {
+              "id": "m3-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p3",
+          "title": "Ciclo de Vida - Fase 3",
+          "parts": [
+            {
+              "id": "m3-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p4",
+          "title": "Ciclo de Vida - Fase 4",
+          "parts": [
+            {
+              "id": "m3-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p5",
+          "title": "Ciclo de Vida - Fase 5",
+          "parts": [
+            {
+              "id": "m3-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Ciclo de Vida, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Ciclo de Vida. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "title": "Listas e Chaves",
+      "phases": [
+        {
+          "id": "m4-p1",
+          "title": "Listas e Chaves - Fase 1",
+          "parts": [
+            {
+              "id": "m4-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p2",
+          "title": "Listas e Chaves - Fase 2",
+          "parts": [
+            {
+              "id": "m4-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p3",
+          "title": "Listas e Chaves - Fase 3",
+          "parts": [
+            {
+              "id": "m4-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p4",
+          "title": "Listas e Chaves - Fase 4",
+          "parts": [
+            {
+              "id": "m4-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p5",
+          "title": "Listas e Chaves - Fase 5",
+          "parts": [
+            {
+              "id": "m4-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Listas e Chaves, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Listas e Chaves. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "title": "Context API e Redux",
+      "phases": [
+        {
+          "id": "m5-p1",
+          "title": "Context API e Redux - Fase 1",
+          "parts": [
+            {
+              "id": "m5-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p2",
+          "title": "Context API e Redux - Fase 2",
+          "parts": [
+            {
+              "id": "m5-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p3",
+          "title": "Context API e Redux - Fase 3",
+          "parts": [
+            {
+              "id": "m5-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p4",
+          "title": "Context API e Redux - Fase 4",
+          "parts": [
+            {
+              "id": "m5-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p5",
+          "title": "Context API e Redux - Fase 5",
+          "parts": [
+            {
+              "id": "m5-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Context API e Redux, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de React.js Completo, estamos explorando Context API e Redux. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

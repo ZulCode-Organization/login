@@ -1,0 +1,3561 @@
+{
+  "id": "c7",
+  "title": "TypeScript Avançado",
+  "modules": [
+    {
+      "id": "m1",
+      "title": "Tipos Básicos",
+      "phases": [
+        {
+          "id": "m1-p1",
+          "title": "Tipos Básicos - Fase 1",
+          "parts": [
+            {
+              "id": "m1-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p2",
+          "title": "Tipos Básicos - Fase 2",
+          "parts": [
+            {
+              "id": "m1-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p3",
+          "title": "Tipos Básicos - Fase 3",
+          "parts": [
+            {
+              "id": "m1-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p4",
+          "title": "Tipos Básicos - Fase 4",
+          "parts": [
+            {
+              "id": "m1-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m1-p5",
+          "title": "Tipos Básicos - Fase 5",
+          "parts": [
+            {
+              "id": "m1-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m1-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Tipos Básicos, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Tipos Básicos. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "title": "Interfaces e Types",
+      "phases": [
+        {
+          "id": "m2-p1",
+          "title": "Interfaces e Types - Fase 1",
+          "parts": [
+            {
+              "id": "m2-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p2",
+          "title": "Interfaces e Types - Fase 2",
+          "parts": [
+            {
+              "id": "m2-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p3",
+          "title": "Interfaces e Types - Fase 3",
+          "parts": [
+            {
+              "id": "m2-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p4",
+          "title": "Interfaces e Types - Fase 4",
+          "parts": [
+            {
+              "id": "m2-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m2-p5",
+          "title": "Interfaces e Types - Fase 5",
+          "parts": [
+            {
+              "id": "m2-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m2-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Interfaces e Types, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Interfaces e Types. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "title": "Generics",
+      "phases": [
+        {
+          "id": "m3-p1",
+          "title": "Generics - Fase 1",
+          "parts": [
+            {
+              "id": "m3-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p2",
+          "title": "Generics - Fase 2",
+          "parts": [
+            {
+              "id": "m3-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p3",
+          "title": "Generics - Fase 3",
+          "parts": [
+            {
+              "id": "m3-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p4",
+          "title": "Generics - Fase 4",
+          "parts": [
+            {
+              "id": "m3-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m3-p5",
+          "title": "Generics - Fase 5",
+          "parts": [
+            {
+              "id": "m3-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m3-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Generics, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Generics. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4",
+      "title": "Decorators e Configuração",
+      "phases": [
+        {
+          "id": "m4-p1",
+          "title": "Decorators e Configuração - Fase 1",
+          "parts": [
+            {
+              "id": "m4-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p2",
+          "title": "Decorators e Configuração - Fase 2",
+          "parts": [
+            {
+              "id": "m4-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p3",
+          "title": "Decorators e Configuração - Fase 3",
+          "parts": [
+            {
+              "id": "m4-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p4",
+          "title": "Decorators e Configuração - Fase 4",
+          "parts": [
+            {
+              "id": "m4-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m4-p5",
+          "title": "Decorators e Configuração - Fase 5",
+          "parts": [
+            {
+              "id": "m4-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m4-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Decorators e Configuração, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Decorators e Configuração. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5",
+      "title": "Integração React",
+      "phases": [
+        {
+          "id": "m5-p1",
+          "title": "Integração React - Fase 1",
+          "parts": [
+            {
+              "id": "m5-p1-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p1-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p1-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p2",
+          "title": "Integração React - Fase 2",
+          "parts": [
+            {
+              "id": "m5-p2-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p2-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p2-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p3",
+          "title": "Integração React - Fase 3",
+          "parts": [
+            {
+              "id": "m5-p3-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p3-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p3-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p4",
+          "title": "Integração React - Fase 4",
+          "parts": [
+            {
+              "id": "m5-p4-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p4-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p4-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "m5-p5",
+          "title": "Integração React - Fase 5",
+          "parts": [
+            {
+              "id": "m5-p5-pt1",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p5-pt2",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            },
+            {
+              "id": "m5-p5-pt3",
+              "type": "content",
+              "questions": [
+                {
+                  "id": "q1",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 1 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q2",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 2?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 2
+                },
+                {
+                  "id": "q3",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 3 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                },
+                {
+                  "id": "q4",
+                  "type": "alternativa",
+                  "question": "Sobre Integração React, qual a alternativa correta para o conceito 4?",
+                  "options": [
+                    "Opção A",
+                    "Opção B",
+                    "Opção C",
+                    "Opção D"
+                  ],
+                  "answer": 0
+                },
+                {
+                  "id": "q5",
+                  "type": "explicativa",
+                  "content": "Nesta parte do curso de TypeScript Avançado, estamos explorando Integração React. O conceito 5 é fundamental para entender como os sistemas funcionam de forma lógica e eficiente."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

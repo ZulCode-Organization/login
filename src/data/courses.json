@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c1",
+    "title": "Lógica de Programação",
+    "description": "A base para qualquer desenvolvedor.",
+    "difficulty": "Iniciante",
+    "totalLessons": 12,
+    "completedLessons": 4,
+    "category": "Fundamentos",
+    "icon": "/assets/icon-only.png"
+  },
+  {
+    "id": "c2",
+    "title": "Javascript Moderno",
+    "description": "Aprenda ES6+ e conceitos avançados.",
+    "difficulty": "Intermediário",
+    "totalLessons": 20,
+    "completedLessons": 0,
+    "category": "Web",
+    "icon": "/assets/icon-only.png"
+  },
+  {
+    "id": "c3",
+    "title": "React e Next.js",
+    "description": "Crie interfaces modernas e escaláveis.",
+    "difficulty": "Avançado",
+    "totalLessons": 15,
+    "completedLessons": 0,
+    "category": "Frontend",
+    "icon": "/assets/icon-only.png"
+  }
+]
