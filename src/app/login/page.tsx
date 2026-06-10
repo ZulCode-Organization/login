@@ -36,7 +36,12 @@ export default function LoginPage() {
       }
 
       localStorage.setItem("accessToken", data.accessToken);
-      router.push("/home");
+      
+      if (typeof window !== "undefined" && (window as any).electron) {
+        (window as any).electron.notifyAuthSuccess();
+      } else {
+        router.push("/home");
+      }
     } catch {
       setError("Erro ao conectar com o servidor");
     } finally {
